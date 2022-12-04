@@ -1,0 +1,21 @@
+id|Fruit_Name_grams|Calories|CaloriesfromFat|totalFat_g|Sodium_mg|Potassium_mg|TotalCarb_g|DietaryFiber_g|Sugars_g|Protein_g|VitaminA_DV|VitaminC_DV|Calcum_DV|Iron_DV|image
+1|Apple large 242 gr|130|0|0|0|260|34|5|35|1|2|8|2|2|Apple.png
+2|Avocado medium 30 gr|50|35|4.5|0|140|3|1|0|1|0|4|0|2|Avocado.png
+3|Banana medium 126 gr|110|0|0|0|450|30|3|19|1|2|15|0|2|Banana.png
+4|Cantaloupe medium 134 gr|50|0|0|20|240|12|1|11|1|120|80|2|2|Cantaloupe.png
+5|Grapefruit medium 154 gr|60|0|0|0|160|15|2|11|1|35|100|4|0|Grapefruit.png
+6|Grapes 126 gr|90|0|0|15|240|23|1|20|0|0|2|2|0|Grapes.png
+7|Honeydew medium 134 gr|50|0|0|30|210|12|1|11|1|2|45|2|2|Honeydew.png
+8|Kiwifruit medium 148 gr|90|10|1|0|450|20|4|13|1|2|240|4|2|Kiwi.png
+9|Lemon medium 58 gr|15|0|0|0|75|5|2|2|0|0|40|2|0|Lemon.png
+10|Lime medium 67 gr|20|0|0|0|75|7|2|0|0|0|35|0|0|Lime.png
+11|Nectarine medium 140 gr|60|5|0.5|0|250|15|2|11|1|8|15|0|2|Nectarine.png
+12|Orange medium 154 gr|80|0|0|0|250|19|3|14|1|2|130|6|0|Orange.png
+13|Peach medium 147 gr|60|0|0.5|0|230|15|2|13|1|6|15|0|2|Peach.png
+14|Pear medium 166 gr|100|0|0|0|190|26|6|16|1|0|10|2|0|Pear.png
+15|Pineapple slices 112 gr|50|0|0|10|120|13|1|10|1|2|50|2|2|Pineapple.png
+16|Plums medium 151 gr|50|0|0|0|230|19|2|16|1|8|10|0|2|Plums.png
+17|Strawberries 147 gr|70|0|0|0|170|11|2|8|1|0|160|2|2|Strawberries.png
+18|Sweet Cherries 140 gr|100|0|0|0|350|26|1|16|1|2|15|2|2|SweetCherries.png
+19|Tangerine medium 109 gr|50|0|0|0|160|13|2|9|1|6|45|4|0|Tangerine.png
+20|Watermelon medium 280 gr|80|0|0|0|270|21|1|20|1|30|25|2|4|Watermelon.png
